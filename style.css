@@ -4,8 +4,10 @@
 }
 
 .cabeçalho{
-    background-color: rgb(224, 10, 99);
+background-color: rgb(224, 10, 99);
     color: black;
+    align-content:center ;
+    display: inline-block;
 }
 .foto{ width: 10%;
 }
